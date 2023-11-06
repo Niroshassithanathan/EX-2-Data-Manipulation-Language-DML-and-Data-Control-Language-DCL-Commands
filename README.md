@@ -167,11 +167,5 @@ ORDER BY COUNT(*) DESC;
 ![image](https://github.com/Niroshassithanathan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121418437/82ea08b2-668b-477d-a17b-6cffe2bce754)
 
 
-## SUBMITTED BY :
-
-## NAME : NIROSHA S
-
-## REGNO: 212222230097
-
 ## RESULT:
 Thus, Manager database is created and DML queries such as insertion, updation, deletion are executed using SQL.
